@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00CED1&height=160&section=header&text=Eduardo+Araujo&fontSize=40&fontColor=fff&animation=twinkling&fontAligny=center"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=421b35&height=160&section=header&text=Eduardo+Araujo&fontSize=40&fontColor=fff&animation=twinkling&fontAligny=center"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+EDUARDO+DE+ARAUJO+SOUSA;I'm+26+years+old;I+from+Brasil,+MA;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -33,7 +33,7 @@
 <br></div>
   
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=421b35&height=120&section=footer"/>****
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
